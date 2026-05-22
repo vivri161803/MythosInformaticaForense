@@ -1,6 +1,6 @@
 # 🛡️ Informatica Forense — AI & Ethical Hacking Presentation
 
-> **Presentazione accademica interattiva sulle conseguenze di Claude Mythos Preview
+> **Presentazione accademica interattiva sulle conseguenze inimmaginabili di Claude Mythos Preview
 > nel framework dell'ethical hacking e negli aspetti legali della cybersecurity.**
 
 Webapp Streamlit multipage che analizza l'impatto dei modelli linguistici agentici
